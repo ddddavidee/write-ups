@@ -11,6 +11,7 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <http://0xawes0me.github.io/writeups/2014/06/12/rarara/>
+* <http://pastebin.com/GB2MUEXV>
